@@ -1,0 +1,75 @@
+.error-not-found {
+  color: red;
+}
+
+.top {
+  color: brown;
+}
+
+.disc {
+  font-family: Arial, Helvetica;
+}
+
+.form {
+  background-color: aqua;
+}
+
+.search {
+  padding: 12px;
+}
+
+.inp {
+  width: 10%;
+}
+
+.submit {
+  padding: 20px;
+}
+
+.sec {
+  background-color: aquamarine;
+}
+
+.title {
+  font-family: sans-serif;
+}
+
+.term {
+  font-family: "Segoe UI";
+}
+
+.list {
+    list-style-type: circle;
+}
+
+.item {
+    padding: 20px;
+}
+
+.back {
+    background-color:red;
+}
+
+.t {
+    margin:10px;
+}
+
+.art {
+    background-color:yellow;
+}
+
+.name {
+    font-family:'Trebuchet MS';
+} 
+
+.image {
+    padding:50px;
+}
+
+.desc {
+    margin: 50px;
+}
+
+.unlist {
+    list-style-type: square;
+}

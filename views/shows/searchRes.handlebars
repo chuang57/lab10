@@ -1,0 +1,15 @@
+<h1 class="title">Shows Found</h1>
+<h2 class="term">{{name}}</h2>
+
+<section class = "sec">
+    <ul class="list">
+        {{#each showRes}}
+          <li class="item"> 
+              <a href="{{this.show.id}}">
+                {{this.show.name}}
+              </a>
+          </li>
+        {{/each}}
+      </ul>
+</section>
+<a href="/" class = "back">Go back to search bar</a>
